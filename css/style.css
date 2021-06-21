@@ -340,3 +340,7 @@ h1,h2,h3 {
 .label textarea{
     height: 20rem;
 }
+
+.pie{
+    text-align: center;
+}
